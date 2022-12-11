@@ -12,4 +12,4 @@ def best_score(a_dictionary):
             if a_dictionary[i] > score:
                 score = a_dictionary[i]
                 leader = i
-        return 
+        return leader
